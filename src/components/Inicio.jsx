@@ -1,5 +1,5 @@
 import React from "react";
-import imagen1 from '../assets/img/imagen1.jpg';
+//import imagen1 from '../assets/img/imagen1.jpg';
 const Inicio = () => {
   return (
     <div className="container">
