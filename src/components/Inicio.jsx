@@ -11,7 +11,7 @@ const Inicio = () => {
               <center>
               
               <div>
-    <img src={imagen1}/>
+    <img src="https://usecim.net/wp-content/uploads/2020/02/Screen-Shot-2020-02-04-at-20.26.03-1024x554.png"/>
    </div>
 
              
